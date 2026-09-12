@@ -1,0 +1,11 @@
+# Dependencias y archivos generados
+node_modules/
+dist/
+build/
+
+# Configuracion local del editor
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
