@@ -11,13 +11,20 @@ Project_calculator/
 |   `-- style.css
 |-- js/
 |   `-- script.js
+|-- LICENSE
 |-- .gitignore
 `-- README.md
 ```
 
 ## Como ejecutarla
 
-Abre `index.html` directamente en un navegador. Tambien puedes usar la extension Live Server de VS Code.
+Abre `index.html` directamente en un navegador.
+
+## Acceso en linea
+
+La calculadora esta disponible en el siguiente enlace:
+
+https://juanmelo73.github.io/Project_calculator/
 
 ## Funcionalidades
 
