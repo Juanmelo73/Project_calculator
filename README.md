@@ -7,6 +7,8 @@ Calculadora web basica construida unicamente con HTML, CSS y JavaScript.
 ```text
 Project_calculator/
 |-- index.html
+|-- assets/
+|   `-- favicon.svg
 |-- css/
 |   `-- style.css
 |-- js/
